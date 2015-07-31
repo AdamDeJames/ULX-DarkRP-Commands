@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"DarkRP Demote Command" 
+	"version"			"0.01"
+	"author_name"		"Adam James"
+	"author_email"		"adamdejames@gmail.com"
+	"author_url"		""
+	"info"				""
+}
